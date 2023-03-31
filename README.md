@@ -17,7 +17,7 @@
 다른줄 두번 스페이스 바  
 공백 필요
 
-![헬로퍼피](/markdown_그림1.jpg)
+![헬로퍼피](/markdown_그림1.gif)
 Format:  ![이미지 alt명](url 링크)
 
 <a href="#"><img src="https://github.com/hellopuppy-docs/test1/markdown_photo_2023-03-27_23-41-59.jpg" width="400px" alt="sample image"></a> 
