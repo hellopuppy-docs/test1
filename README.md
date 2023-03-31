@@ -17,8 +17,10 @@
 다른줄 두번 스페이스 바  
 공백 필요
 
-![헬로퍼피](/markdown_그림1.gif)
-Format:  ![이미지 alt명](url 링크)
+첫번째 방법 
+![Github logo](/images/markdown_logo.jpg) 
+Format: ![이미지 alt명](url 링크) 
 
-<a href="#"><img src="https://github.com/hellopuppy-docs/test1/markdown_photo_2023-03-27_23-41-59.jpg" width="400px" alt="sample image"></a> 
-Format: img 태그 사용
+두번째 방법 
+<a href="#"><img src="https://github.com/..각자절대경로../images/markdown_syntax.jpg" width="400px" alt="sample image"></a> 
+Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
