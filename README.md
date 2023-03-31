@@ -18,7 +18,7 @@
 공백 필요
 
 첫번째 방법 
-![Github logo](/images/markdown_logo.jpg) 
+![Github logo](그림1.gif) 
 Format: ![이미지 alt명](url 링크) 
 
 두번째 방법 
