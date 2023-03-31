@@ -6,8 +6,8 @@
 
 * item
 * item1
- * item2
- * item2
+  * item2
+  * item2
 
 * 아이템
- * 아이템1
+  * 아이템1
